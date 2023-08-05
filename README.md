@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
-<h3 align="center">Soy un apasionado estudiante y aprendiz de programación. Siempre en busca de nuevos desafíos y oportunidades para crecer.</h3>
+<h3 align="center">I'm a passionate programming student and learner. Always looking for new challenges and opportunities to grow.</h3>
 
 - 🌱 I’m currently learning **Java, C#**
 
