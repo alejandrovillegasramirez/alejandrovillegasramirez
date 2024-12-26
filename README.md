@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
 <h3 align="center">I'm a passionate programming student and learner. Always looking for new challenges and opportunities to grow.</h3>
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **alejandrovillegasramirez@gmail.com**
 
